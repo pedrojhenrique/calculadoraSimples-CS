@@ -1,0 +1,15 @@
+C:\Users\Centaurea TI\Documents\testes\C#\Calculadora1\Calculadora1\bin\Debug\net6.0\Calculadora1.exe
+C:\Users\Centaurea TI\Documents\testes\C#\Calculadora1\Calculadora1\bin\Debug\net6.0\Calculadora1.deps.json
+C:\Users\Centaurea TI\Documents\testes\C#\Calculadora1\Calculadora1\bin\Debug\net6.0\Calculadora1.runtimeconfig.json
+C:\Users\Centaurea TI\Documents\testes\C#\Calculadora1\Calculadora1\bin\Debug\net6.0\Calculadora1.dll
+C:\Users\Centaurea TI\Documents\testes\C#\Calculadora1\Calculadora1\bin\Debug\net6.0\Calculadora1.pdb
+C:\Users\Centaurea TI\Documents\testes\C#\Calculadora1\Calculadora1\obj\Debug\net6.0\Calculadora1.csproj.AssemblyReference.cache
+C:\Users\Centaurea TI\Documents\testes\C#\Calculadora1\Calculadora1\obj\Debug\net6.0\Calculadora1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Centaurea TI\Documents\testes\C#\Calculadora1\Calculadora1\obj\Debug\net6.0\Calculadora1.AssemblyInfoInputs.cache
+C:\Users\Centaurea TI\Documents\testes\C#\Calculadora1\Calculadora1\obj\Debug\net6.0\Calculadora1.AssemblyInfo.cs
+C:\Users\Centaurea TI\Documents\testes\C#\Calculadora1\Calculadora1\obj\Debug\net6.0\Calculadora1.csproj.CoreCompileInputs.cache
+C:\Users\Centaurea TI\Documents\testes\C#\Calculadora1\Calculadora1\obj\Debug\net6.0\Calculadora1.dll
+C:\Users\Centaurea TI\Documents\testes\C#\Calculadora1\Calculadora1\obj\Debug\net6.0\refint\Calculadora1.dll
+C:\Users\Centaurea TI\Documents\testes\C#\Calculadora1\Calculadora1\obj\Debug\net6.0\Calculadora1.pdb
+C:\Users\Centaurea TI\Documents\testes\C#\Calculadora1\Calculadora1\obj\Debug\net6.0\Calculadora1.genruntimeconfig.cache
+C:\Users\Centaurea TI\Documents\testes\C#\Calculadora1\Calculadora1\obj\Debug\net6.0\ref\Calculadora1.dll
